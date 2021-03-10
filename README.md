@@ -17,14 +17,14 @@
 
   ### 1. Clone App
   
-    ```
+ 
      $ git clone git@github.com:aditya28sarin/Chat-Application.git
-    ```
+ 
     
  ### 2. Move in Directory
-     ```
+  
      $ cd Chat-Application
-    ```
+   
     
  ### 3. Install node packages
    ```
